@@ -8,12 +8,12 @@ This repository provides the data and code required to replicate the figures and
 Stata 18
 
 ## List of Restricted-Access Datasets
-* ESG Scores
-Sustinvest
-KCGS
-MSCI
-Refinitiv
+### ESG Scores
+* Sustinvest
+* KCGS
+* MSCI
+* Refinitiv
 
-* Firm-Level Financial Data
-VALUE Search
+### Firm-Level Financial Data
+* VALUE Search
 
