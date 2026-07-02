@@ -17,3 +17,17 @@ Stata 18
 ### Firm-Level Financial Data
 * VALUE Search
 
+## Data
+   ### Restricted-Access Datasets
+   #### ESG Scores
+* Sustinvest
+* KCGS
+* MSCI
+* Refinitiv
+
+   #### Data Structure / Directory
+  
+## Code
+   ### Repository Structure
+   ### Description of Scripts
+## Replication Instructions
