@@ -40,10 +40,23 @@ Stata 18
 * **Other dta files will be provided after authorization.**
 
 ### do File
-* **Figure 1_a**
+* **Figure1_a**
 
-   Code to replicate Panel (a) in Figure 1.
+   This code replicates Panel (a) in Figure 1.
   
 * **Other do files will be provided after authorization.**
    
 ## Replication Instructions
+
+**Set the directory and run the do file as follows.**
+* **Set the directory**
+
+   global directory "/Users/kyle/Library/CloudStorage/Dropbox/Carbon Burden/Replication Package"
+
+   global data = "${directory}/data"
+
+   global code = "${directory}/code"
+
+* **Run do file**
+
+   do "${code}/figure1_a.do"
