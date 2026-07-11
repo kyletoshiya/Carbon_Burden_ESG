@@ -8,21 +8,30 @@ This repository provides the data and code required to replicate the figures and
 Stata 18
 
 ## Data
-   ### Restricted-Access Datasets
-   #### ESG Scores
+
+### Opened Datasets
+
+#### Social Cost of Carbon
+* U.S. Environmental Protection Agency
+
+#### GHG Emissions
+* National GHG Management System
+
+### Restricted-Access Datasets
+
+#### ESG Scores
 * Sustinvest
 * KCGS
 * MSCI
 * Refinitiv
-   #### Firm-Level Financial Data
+
+#### Firm-Level Financial Data
 * VALUE Search
-   #### Social Cost of Carbon
-* U.S. Environmental Protection Agency
-   #### GHG Emissions
-* National GHG Management System
-  
+
 ## File Description
-   ### Dta File
-   ### Do File
+
+### Dta File
+   
+### Do File
    
 ## Replication Instructions
