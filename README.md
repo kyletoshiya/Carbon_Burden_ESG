@@ -14,12 +14,18 @@ Stata 18
 * KCGS
 * MSCI
 * Refinitiv
-  #### Firm-Level Financial Data
+
+   #### Firm-Level Financial Data
 * VALUE Search
 
-   #### Opened Data
+   #### Social Cost of Carbon
+* U.S. Environmental Protection Agency
+
+   #### GHG Emissions
+* National GHG Management System
   
-## Code
-   ### Repository Structure
-   ### Description of Scripts
+## File Description
+   ### Dta File
+   ### Do File
+   
 ## Replication Instructions
