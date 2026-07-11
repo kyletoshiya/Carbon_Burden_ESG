@@ -30,8 +30,20 @@ Stata 18
 
 ## File Description
 
-### Dta File
-   
-### Do File
+### dta File
+* **EPA_SCC.dta**
+
+   It contains the Social Cost of Carbon at discount rates of 1.5%, 2.0%, and 2.5% through 2100.
+* **NGMS_Emission_restricted.dta**
+
+   It contains firm name (in Korean), firm ID, year, and GHG emissions from 2011 to 2023.
+* **Other dta files will be provided after authorization.**
+
+### do File
+* **Figure 1_a**
+
+   Code to replicate Panel (a) in Figure 1.
+  
+* **Other do files will be provided after authorization.**
    
 ## Replication Instructions
